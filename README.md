@@ -4,7 +4,7 @@
 
 This repository contains the comprehensive codebase and models developed during my internship at DRDO for a gaze-tracking system. The project centers on tracking gaze direction and analyzing eye movements using a variety of methodologies, including raw data collection, preprocessing, and model training. The repository also includes supporting scripts for visualization and prediction.
 
-Important Note: This repository contains raw data collection code, preprocessing scripts, model architecture, and prediction scripts. The dataset is included for research purposes, but users should ensure compliance with applicable ethical and legal standards when utilizing this data.
+**Important Note:** This repository only includes the code and model files. The dataset used for training the models is **NOT INCLUDED** due to specific reasons, including privacy and confidentiality concerns.
 
 ---
 
